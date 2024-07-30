@@ -5,6 +5,12 @@
 
 # Leveraging Open LLMs Locally class 2024
 
+Companion code for the Open LLMs class
+
+It includes:
+1. Instructions on how to get an ollama instance up and running
+2. Code for a basic chatbot demo with history, and agentic capabilities
+
 ## Syllabus
 
 1. Setting up a basic ollama instance for local inference
