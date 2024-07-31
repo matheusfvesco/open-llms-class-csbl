@@ -28,7 +28,7 @@ It includes:
 2. Clone open-webui repository locally
 
 ```bash
-git clone https://github.com/open-webui/open-webui.git && cd open-webui
+git clone --depth=1 https://github.com/open-webui/open-webui.git && cd open-webui
 ```
 
 3. Run the docker compose
